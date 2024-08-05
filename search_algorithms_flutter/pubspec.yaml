@@ -1,5 +1,5 @@
 name: search_algorithms_flutter
-description: "A new Flutter package project."
+description: "A Dart package that provides various search algorithms (Binary Search, Linear Search, Jump Search)."
 version: 0.0.1
 homepage: https://github.com/TojiddinovMuhammadabdullox/search_algorythms
 repository: https://github.com/TojiddinovMuhammadabdullox/search_algorythms

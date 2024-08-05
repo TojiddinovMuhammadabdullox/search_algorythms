@@ -1,39 +1,26 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Search Algorithms
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+A Dart package that provides various search algorithms (Binary Search, Linear Search, Jump Search). This package is designed to help developers easily implement and compare different search techniques in their applications.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- **Linear Search**: Simple search algorithm that checks each element in the list sequentially until the desired element is found.
+- **Binary Search**: Efficient search algorithm that works on sorted lists by repeatedly dividing the search interval in half.
+- **Jump Search**: Search algorithm that combines linear and binary search techniques by jumping ahead by fixed steps and then performing a linear search within the interval.
 
-## Getting started
+## Getting Started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+### Prerequisites
 
-## Usage
+Before you can use this package, ensure you have the following installed:
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+- Dart SDK: >=2.12.0 <3.0.0
 
-```dart
-const like = 'sample';
+### Installation
+
+Add the following dependency to your `pubspec.yaml` file:
+
+```yaml
+dependencies:
+  search_algorithms: ^0.0.1
 ```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
