@@ -1,7 +1,8 @@
 name: search_algorithms_flutter
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/TojiddinovMuhammadabdullox/search_algorythms
+repository: https://github.com/TojiddinovMuhammadabdullox/search_algorythms
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
@@ -15,6 +16,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
+  test: any
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

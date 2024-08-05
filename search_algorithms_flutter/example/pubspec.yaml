@@ -1,0 +1,9 @@
+name: search_algorithms_flutter
+description: Demonstrates how to use the search_algorithms package.
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  search_algorithms:
+    path: search_algorithms_flutter/

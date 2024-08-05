@@ -1,16 +1,11 @@
-# hometask_paket
+# search_algorithms
 
-A new Flutter project.
+A Dart package that provides various search algorithms (Binary Search, Linear Search, Jump Search).
 
-## Getting Started
+## Usage
 
-This project is a starting point for a Flutter application.
+Add this to your package's pubspec.yaml file:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```yaml
+dependencies:
+  search_algorithms: ^0.0.1
